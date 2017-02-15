@@ -1,0 +1,415 @@
+/* Sarif for headers // Georgia // default */
+/* latin-ext */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Alegreya'), local('Alegreya-Regular'), url(http://fonts.gstatic.com/s/alegreya/v7/9u9YGRxvkN-Oe2bJiJD80RTbgVql8nDJpwnrE27mub0.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Alegreya'), local('Alegreya-Regular'), url(http://fonts.gstatic.com/s/alegreya/v7/4vRXIs1BEbKX6mQ7lGu1I_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Alegreya Bold'), local('Alegreya-Bold'), url(http://fonts.gstatic.com/s/alegreya/v7/F5BSMOSf_T8GT2wiqqpj3SYE0-AqJ3nfInTTiDXDjU4.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Alegreya Bold'), local('Alegreya-Bold'), url(http://fonts.gstatic.com/s/alegreya/v7/F5BSMOSf_T8GT2wiqqpj3Y4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Alegreya Black'), local('Alegreya-Black'), url(http://fonts.gstatic.com/s/alegreya/v7/77GwhzeWPpmLIJUaM8KhxCYE0-AqJ3nfInTTiDXDjU4.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Alegreya Black'), local('Alegreya-Black'), url(http://fonts.gstatic.com/s/alegreya/v7/77GwhzeWPpmLIJUaM8KhxI4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+
+/* sans-serif for body // Verdana // default */
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arimo'), url(http://fonts.gstatic.com/s/arimo/v9/an78_18DAUCSU6a4qacRuA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arimo'), url(http://fonts.gstatic.com/s/arimo/v9/4NN7UQ_VsRBn7NDD9HKUPw.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arimo'), url(http://fonts.gstatic.com/s/arimo/v9/ye-fuRt_0mKrPeIp6Mwa8A.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arimo'), url(http://fonts.gstatic.com/s/arimo/v9/VF6T-UwCT6WyIiUKP6AykQ.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arimo'), url(http://fonts.gstatic.com/s/arimo/v9/X3cUdzInOvbZ6zhcyjPc3w.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arimo'), url(http://fonts.gstatic.com/s/arimo/v9/eSHy7hCA8QR4qTF-59v60g.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF1, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arimo'), url(http://fonts.gstatic.com/s/arimo/v9/V41d6938Z8eBLYL302F8Ig.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arimo'), url(http://fonts.gstatic.com/s/arimo/v9/HNu4Nzh6q8Es60EMNZhs9w.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arimo Bold'), local('Arimo-Bold'), url(http://fonts.gstatic.com/s/arimo/v9/ar6XjGD_YvbpY9XD5YxKTBTbgVql8nDJpwnrE27mub0.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arimo Bold'), local('Arimo-Bold'), url(http://fonts.gstatic.com/s/arimo/v9/XzFO_hPcAZmADxw_2htokBTbgVql8nDJpwnrE27mub0.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arimo Bold'), local('Arimo-Bold'), url(http://fonts.gstatic.com/s/arimo/v9/Tq4Zh2K0uru54pu6hyua9BTbgVql8nDJpwnrE27mub0.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arimo Bold'), local('Arimo-Bold'), url(http://fonts.gstatic.com/s/arimo/v9/gRIQMcBGUlcKSvTGaO9yHBTbgVql8nDJpwnrE27mub0.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arimo Bold'), local('Arimo-Bold'), url(http://fonts.gstatic.com/s/arimo/v9/Jg7MGeIJdVGhHqsyezM8VRTbgVql8nDJpwnrE27mub0.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arimo Bold'), local('Arimo-Bold'), url(http://fonts.gstatic.com/s/arimo/v9/u0Tw4Txbkc9Av4uzN1j1aBTbgVql8nDJpwnrE27mub0.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF1, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arimo Bold'), local('Arimo-Bold'), url(http://fonts.gstatic.com/s/arimo/v9/XCmwOdi6K62tkWaszbVGURTbgVql8nDJpwnrE27mub0.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arimo Bold'), local('Arimo-Bold'), url(http://fonts.gstatic.com/s/arimo/v9/27rE5lMk9EHpLbxiIuGd0PesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+/*common tags*/
+html {
+  font-size: 20px;
+  background-color: beige;
+  font-family: sans-serif;
+}
+
+body {
+  font-family: Arimo, Verdana, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Alegreya, Georgia, serif;
+}
+
+/*logo*/
+header {
+  background-color: brown;
+  text-align: center;
+  padding-top: 0.5em;
+  margin-bottom: -0.5em;
+  width: 100%;
+}
+
+/*header*/
+h1.header {
+  font-family: serif;
+  color:white;
+  text-align: center;
+  clear: both;
+  background-color: brown;
+  margin-top: 0.2em;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+}
+
+/*navigation bar*/
+.index {
+  text-align: center;
+  background-color: brown;
+  padding-top: 1em;
+  padding-bottom: 0.7em;
+  margin-top: -1.5em;
+  border: 1px solid black;
+}
+
+.index li {
+  display: inline;
+  margin-right: -1em;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.index a {
+  color: white;
+  text-decoration: none;
+  margin-left: 6em;
+  margin-right: 6em;
+}
+
+a:focus, a:hover {
+  color: blue;
+}
+/*end of common tags*/
+
+/*index file + specials file*/
+section {
+  padding-top: 0.5em;
+  text-align: left;
+  font-size: 0.8em;
+  display: inline;
+  float: left;
+}
+
+.products {
+  list-style-image: url(../images/Symbols/saw.png);
+}
+
+.products li{
+  font-size: 20px;
+  margin-left: 2em;
+}
+
+h2 {
+  color: brown;
+  cursor: pointer;
+  background: url(../images/symbols/plus.png) no-repeat left center; 
+  padding-left: 1em; 
+  margin-top: 5em;
+}
+
+h2.minus {
+  background: url(../images/symbols/minus.png) no-repeat left center;
+}
+
+div {
+  display: none;
+}
+
+div.open {
+  display: inline;
+}
+
+div p{ 
+  width: 70%;
+}
+
+.contact {
+  list-style-type: none;
+}
+
+.contact li {
+  margin-left: 1em;  
+  display: inline;
+}
+
+/*products folder */
+.imageSwap li {
+  display: inline;
+}
+
+.product_name {
+  color: brown;
+}
+
+
+
+div.info {
+  display: block;
+  margin-top: 10em;
+  margin-left: 30em;
+}
+.price p {
+  margin-top: 2em;
+}
+
+
+footer {
+  text-align: center;
+  font-size: 4px;
+  margin-bottom: 1em;
+  clear: both;
+}
+
+address {
+  margin-top: 2em;
+  margin-left: 4em;
+  margin-bottom: 2em;
+}
+
+.slide_show {
+  display: none;
+}
+
+h3 {
+  font-size: 1.5em; 
+  color:brown;
+}
+
+td {
+  text-align: center;
+  background-color:darkkhaki;
+  border: 1px solid brown;
+}
+
+th {
+  color: white;
+  background-color: brown;
+}
+table {
+  border: 2px solid brown;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10em;
+}
+
+
+/*Form file */
+label {
+  float: left;
+  width: 11em;
+  text-align: right;
+}
+input {
+  margin-left: 1em;
+  margin-bottom: .5em;
+}
+.error {
+  color: red;
+}
+select {
+  margin-left: 1em;
+  margin-bottom: .5em;
+}
+
+p.notice {
+  margin-left: 3em;
+  margin-top: 5em;
+}
+
+section.form {
+  margin-left: 4em;
+}
+
+.sum {
+  color: brown;
+}
+
+.submitted {
+  text-align: center;
+  color: brown;
+  font-size: 50px;
+  margin-top: 5em;
+}
+
+.userChoice a {
+  font-size: 20px;
+  color: brown;
+}
+
+.userChoice {
+  text-align: center;   
+}
+
+div.re-route {
+  display: inherit;
+  padding-top: 5em;
+}
+
+.re-route a{
+  color: brown;
+}
